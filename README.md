@@ -8,3 +8,6 @@ C++中左右值的讲解：https://nettee.github.io/posts/2018/Understanding-lva
 
 C++中的类型转换：https://blog.csdn.net/shuzfan/article/details/77338366
 
+C++常用的设计模式：https://www.cnblogs.com/schips/p/12306851.html
+
+
