@@ -10,4 +10,5 @@ C++中的类型转换：https://blog.csdn.net/shuzfan/article/details/77338366
 
 C++常用的设计模式：https://www.cnblogs.com/schips/p/12306851.html
 
+C++中的深度优先遍历和广度优先遍历：  https://blog.csdn.net/mingwanganyu/article/details/72033122
 
